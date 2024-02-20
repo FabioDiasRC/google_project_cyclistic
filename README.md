@@ -2,7 +2,7 @@
 #### Fábio Dias Rezende Carvalho
 #### E-mail: fabior.carvalho@hotmail.com
 
-Esse arquivo tem como objetivo fazer o trabalho de finalização do curso do google data analytics, baseado nos pedidos encontrados no arquivo 'src/estudo_de_caso_bicicletas.docx'. Os dados são encontrados [Nesse link](https://divvy-tripdata.s3.amazonaws.com/index.html), onde os dados são gerados pela empresa e disponibilizados para estudo, os dados aqui encontrados e a empresa cyclistic não são reais. 
+Esse arquivo tem como objetivo fazer o trabalho de finalização do curso do google data analytics, baseado nos pedidos encontrados no arquivo 'src/estudo_de_caso_bicicletas.docx'. Os dados são encontrados [Nesse link](https://divvy-tripdata.s3.amazonaws.com/index.html), onde os dados são gerados pela empresa e disponibilizados para estudo, os dados aqui encontrados e a empresa cyclistic não são reais. Os caminhos do jupyter notebook indicam como os dados foram trabalhados, com o link é possivel acessa-los e salva-los com o mesmo nome, entretanto o git hub me impede de fazer o upload de dados acima de 100 mb.
 
 # Cenário do projeto
 
